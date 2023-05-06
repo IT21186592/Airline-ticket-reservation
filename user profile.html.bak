@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Sri Lankan Airlines | User Profile</title>
+   <link rel="stylesheet" href="../styles/header and footer.css">
+</head>
+<body>
+<!--header-->
+   <section class="sub-header">
+     <nav>
+        <a href="Home page.html"><img src="../images/logo.png"></a>
+		<!-- nav bar -->
+		<div class="nav-links" >
+           <ul>
+			    <li><a href="Home page.html">HOME</a></li>
+				<li><a href="booking1.html">BOOKINGS</a></li>
+				<li><a href="about us.html">ABOUT US</a></li>
+				<li><a href="Contact us.html">CONTACT US</a></li>
+				<li><a href="my help page.html">HELP</a></li>
+				<li><a href="feedback.html">GIVE FEEDBACK</a></li>
+				<li><a href="user profile.html">USER PROFILE</a></li>
+				<li><a href="Sign up page.html">SIGN UP</a></li>
+				<li><a href="">LOGIN</a></li>
+			</ul>	
+		</div>		
+	 </nav>
+	 <h1>USER PROFILE</h1>
+   </section>
+	 
+	 
+	 <!-- Body -->
+	 
+<link rel="stylesheet" href="..\styles\user profile.css">
+
+  
+  <div class="main">
+   
+		<div class="user-profile">
+			<img class="avatar" src="../images/avatar.png" alt="Ash" />
+		
+		<div class="username">Kavindu Bandara</div>
+		
+		<div class="id">001</div>
+    
+		<div class="contact">Mobile No: 076567581</div>
+		
+		<div class="dob">DOB: 17.07.1999</div>
+		
+		<div class="address">Address:30/2 Korathota,Kaduwela</div>
+		
+		<div class="mail">E-mail:kavindu717@gmail.com</div>
+<br>
+	
+	<br>
+				<a href="../html/update user profile.html"><input type="submit" value="EDIT DETAILS" class="Btn"></a>
+</div>
+		
+		
+	<br>
+	<br>
+	<br>
+	
+	
+
+
+
+
+<!-- footer -->
+   
+   <section class="footer">
+     <h4><a href="privacy policy.html"> Privacy policy </a> | <a href="services.html">Our Services</a><h4>
+	 <p> +94765697581 | +94371313121 | +94711212120 | +94116565119 | <a href="map.html">Where We fly</a> | <a href="">Terms and Conditions</a> | <a href="Sri Lankan Airlines gallery.html">Gallery</a></p>
+	 <div class="icons">
+        <img src="../images/facebook.png">
+		<img src="../images/twitter.png">
+		<img src="../images/instagram.png">
+	 </div>
+	 <p>copyright all rights reserved</p>
+   </section>   
+</body>
+</html>
